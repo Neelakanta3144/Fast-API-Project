@@ -1,0 +1,6 @@
+fastapi
+pythin-dotenv
+fastapi-users[sqlalchemy]
+imagekitio
+uvicorn[standard]
+aiosqlite
