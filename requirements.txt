@@ -1,5 +1,5 @@
 fastapi
-pythin-dotenv
+python-dotenv
 fastapi-users[sqlalchemy]
 imagekitio
 uvicorn[standard]
